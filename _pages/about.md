@@ -1,5 +1,5 @@
 ---
-permalink: /logs/
+permalink: /
 title: "Esteban's Activity log"
 excerpt: "About me"
 author_profile: true
