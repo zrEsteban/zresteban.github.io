@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Esteban's website - Academic Web Pages"
+title: "Esteban's website - A Personal Academic Web Pages"
 excerpt: "About me"
 author_profile: true
 redirect_from:

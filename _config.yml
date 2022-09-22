@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Esteban Zamora"
-description              : &description "Dr.Ing(c) "
+description              : &description " "
 url                      : https://zresteban.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zrEsteban/zresteban.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Msc.Ing Esteban Zamora"
+  name             : "Esteban Zamora"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Msc.Ing, U. de Santiago de Chile, 2017. Candidato a Doctor en Ing. Mención Mecánica Computacional, U. Nacional del Litoral, Santa Fe, Argentina."
   location         : "Santiago de Chile."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
