@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Profile"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Esteban Zamora"
 description              : &description " "
