@@ -1,6 +1,6 @@
 ---
-permalink: /logs/
-title: "Esteban's website - A Personal Academic Web Pages"
+permalink: /year-archive.html
+title: "Esteban's log activities"
 excerpt: "About me"
 author_profile: true
 redirect_from:
