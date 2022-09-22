@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Esteban Zamora / Profile"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Esteban Zamora"
 description              : &description "Dr.Ing(c) "
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr(c).Ing Esteban Zamora"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Stgo,Chile."
+  location         : "Santiago de Chile."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=8QHpn0wAAAAJ"
   email            : "zr.esteban@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Esteban-Zamora-3# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zrEsteban"
+  github           : "zrEsteban"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC2Tmpo5P59Sus5d-lDb8jMA"
+  youtube          : "channel/UC2Tmpo5P59Sus5d-lDb8jMA"
   wikipedia        :
 
 
