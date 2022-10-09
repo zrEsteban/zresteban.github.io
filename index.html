@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title> Esteban Zamora </title>
+  <title> Esteban Zamora's Academic Page  </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
-</head>
+  <!-- <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'> -->
+  <link href="./styles/style.css" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="https://latex.now.sh/style.css">
+  
+ </head>
+  
 <body>
-
-
+ 
 <!-- Navigation -->
 	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
 	  <div class="container">
@@ -27,9 +31,12 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		  <ul class="nav navbar-nav">
-				  <li><a href="index.html">Home</a></li>
-				  <li><a href="#">Projects</a></li>
-				  <li><a href="#publications">Publications</a></li> 
+				  <li><a href="index.html"> Log's </a></li>
+
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">Teaching</a></li>
+          <li><a href="#">Conferences</a></li>
+				  <li><a href="#publications">Publications</a></li>           
 				  <li><a href="#">CV</a></li> 
 		  </ul>
 		</div>
@@ -45,7 +52,7 @@
             <div class="col-md-8" style="height: 100vh;">
                 
                 <!-- Main Image -->
-                <img class="img-responsive" src="photo.gif" alt=""><br>
+                <!-- <img class="img-responsive" src="profile.png" alt=""><br> -->
                 
                 <div style="margin-top:3%; text-align:justify;">                
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing <a href="#">elit</a>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -58,6 +65,14 @@
 
             <!-- Contact Info on the Sidebar -->
             <div class="col-md-4">
+                <!-- Profile Image -->
+                <img style="background: red;
+                width: 210px;   
+                height: 220px; 
+                border-bottom-left-radius: 25% 20%;
+                border-bottom-right-radius: 25% 20%;
+                border-top-left-radius: 25% 20%;
+                border-top-right-radius: 25% 20%;" class="img-responsive" src="profile.png" alt=""><br>
                 <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b> Esteban Zamora </b></div><br>
                 <p><b>zr.esteban@gmail.com</b><br>
                 <p>Random Department<br>
@@ -78,7 +93,7 @@
             
             
             <!-- Publications -->
-            <div class="col-md-8" style="height: 100vh;">    
+            <!-- <div class="col-md-8" style="height: 100vh;">    
                 <h2 id="publications">Publications</h2>
                 
                 <strong>Peer-reviewed</strong><br/>
@@ -90,11 +105,10 @@
                 <ul>
                 <li class="paper" words="add, your, keywords, here"><a href="#">Full title</a>. Details of the report</li>
                 </ul>
-            </div>
+            </div> -->
 
             
         </div>
-
 
     </div>
     <!-- /.container -->
@@ -103,5 +117,8 @@
     <a style="color:#b5bec9;font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic">Plain Academic</a> 
     
 </body>
+
+<script src="./js/app.js" type="module">  </script>
+
 
 </html>

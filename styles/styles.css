@@ -1,0 +1,9 @@
+.img-profile {
+    background: red;
+    width: 200px;   
+    height: 280px; 
+    border-bottom-left-radius: 25% 100%;
+    border-bottom-right-radius: 25% 100%;
+    border-top-left-radius: 25% 100%;
+    border-top-right-radius: 25% 100%;
+  }
